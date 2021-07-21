@@ -1,4 +1,4 @@
-_instead of crashing its actually just a basic unlimited loop using the `next` function_
+_instead of crashing its actually just a basic unlimited loop using the`next`function_
 
 **run using :**
 ```rb
