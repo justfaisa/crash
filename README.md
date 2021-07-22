@@ -2,7 +2,8 @@ _instead of crashing its actually just a basic unlimited loop using the`next`fun
 
 _btw its crashed my terminal 0_0_
 
-**run:**
+
+**run**
 ```rb
 $ ruby crash.rb
 ```
