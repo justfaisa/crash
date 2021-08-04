@@ -1,6 +1,6 @@
-i = 20
+crash = 20
 loop do
-  i -= 1
-  next print "#{i}"
-  next if i <= 0 # Unlimited loop moment
+  crash -= 1
+  next print "#{crash}"
+  next if crash <= 0 # Unlimited loop moment
 end
